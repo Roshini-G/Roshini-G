@@ -26,13 +26,14 @@ useful applications.**
 ---
 ## Connect With Me <p align="left">
 <a href="https://www.linkedin.com/in/roshini-gopal-49b9b7419?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://share.google/KPuKHMnJsaNtvm6rS"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
+the-badge&logo=linkedin"/>
 </a>
 <a href="[Portfolio URL]">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-
 the-badge&logo=vercel"/>
 </a>
-<a href="mailto:roshini252006@gmail.com">
+<a href="mailto roshini252006@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
 badge&logo=gmail"/>
 </a>
@@ -133,4 +134,4 @@ t"/>
 <p align="center">
 If you like my work, consider giving a to my repositories and 
 connecting with me.
-</p> 
+</p>
