@@ -1,137 +1,133 @@
-<h1 align="center">Hi , I'm Roshini.G</h1>
+<h1 align="center">Hi 👋, I'm Roshini G</h1>
+
 <h3 align="center">
- Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
+🎓 B.Tech CSE (AI & ML) Student | Flutter Developer | AI Enthusiast
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Flutter+Developer;Full+Stack+Learner;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
+
 ---
-## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML) Student
+- 💙 Passionate about AI, Flutter and Full Stack Development
+- 🌱 Currently learning Flutter, Firebase, Backend Development & Machine Learning
+- 🤝 Open to collaborating on exciting projects and hackathons
+- 💡 Love building innovative solutions to real-world problems
+- ⚡ Fun Fact: I enjoy participating in hackathons and learning new technologies.
+
 ---
-## Connect With Me <p align="left">
-<a href="https://www.linkedin.com/in/roshini-gopal-49b9b7419?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/roshini-gopal-49b9b7419">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-</a>
-<a href="mailto roshini252006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
+
+<a href="mailto:roshini252006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
+
 ---
-# Tech Stack
+
+# 💻 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c,firebase,mysql,git,github,vscode,figma,html,css,js"/>
 </p>
+
 ---
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience. **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
- Repository: [GitHub Repository]
+
+# 🚀 Featured Projects
+
+## 💎 Jewellery Vault
+AI-powered jewellery management and maintenance application.
+
+## 🫀 Smart Organ Transplant Priority Analyzer
+Machine Learning project for organ transplant prioritization.
+
+## 📱 Flutter Applications
+Mobile applications built using Flutter and Firebase.
+
 ---
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-## Task Management App
-A productivity application to organize daily tasks with 
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-# GitHub Stats <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
----
-# GitHub Streak
+
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
-# Contribution Graph
+
+# 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
-# GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 </p>
+
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
 # 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
+
+- Flutter Development
+- AI & Machine Learning Projects
+- Backend Development
+- Hackathon Projects
+
 ---
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
+
+# 🌱 Currently Learning
+
+- Flutter
+- Firebase
+- Machine Learning
+- Backend Development
 - System Design
-- Backend Architecture
+
 ---
-# Goals for 2025
+
+# 🎯 Goals
+
+- Build impactful AI applications
 - Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+- Win Hackathons
+- Become a Full Stack AI Engineer
+
 ---
-# Favorite Quote > "Code is like humor. When you have to explain it, it's bad." – 
-Cory House
+
+# 💬 Favorite Quote
+
+> "The best way to predict the future is to create it."
+
 ---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
----
+
 <h3 align="center">
- Thanks for visiting my profile! 
+⭐ Thanks for visiting my profile!
 </h3>
-<p align="center">
-If you like my work, consider giving a to my repositories and 
-connecting with me.
-</p>
