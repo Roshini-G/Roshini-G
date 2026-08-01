@@ -14,16 +14,17 @@
 
 - 🎓 B.Tech Computer Science Engineering (AI & ML) Student
 - 💙 Passionate about Artificial Intelligence, Flutter and Full Stack Development
-- 🌱 Currently learning Flutter, Firebase, Machine Learning and Backend Development
-- 🤝 Interested in Hackathons, Open Source and Real-world AI Solutions
-- 💡 I enjoy solving real-world problems using technology
-- ⚡ Always learning and building new projects
+- 🌱 Currently learning Flutter, Firebase, Backend Development and Machine Learning
+- 🤝 Open to collaborating on Open Source Projects, AI Applications and Hackathons
+- 💡 I enjoy building impactful real-world solutions using technology
+- ⚡ Consistently learning, coding and improving every day
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/roshini-gopal-49b9b7419">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -31,6 +32,7 @@
 <a href="mailto:roshini252006@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
@@ -47,19 +49,19 @@
 
 ## 🫀 Smart Organ Transplant Priority Analyzer
 
-An AI-powered healthcare web application designed to prioritize organ transplant recipients using Machine Learning and the Structured Analytic Hierarchy Process (SAHP). The system provides transparent predictions with SHAP Explainable AI, enabling fair, data-driven and explainable decision-making.
+An AI-powered healthcare web application that prioritizes organ transplant recipients using Machine Learning and the Structured Analytic Hierarchy Process (SAHP). The platform improves transparency with SHAP Explainable AI, helping support fair and data-driven medical decision-making.
 
 ### ✨ Features
 
 - 🏥 Patient Registration & Medical Data Management
-- 🤖 Machine Learning-based Priority Prediction
+- 🤖 Machine Learning-based Organ Priority Prediction
 - 📊 SAHP-based Patient Ranking
 - 🔍 SHAP Explainable AI
-- 📈 Interactive Dashboard & Analytics
-- 📄 Report Generation & Export
+- 📈 Interactive Analytics Dashboard
+- 📄 Report Generation
 - 🔐 Secure Data Management
 
-### 🛠 Tech Stack
+### 🛠 Technologies Used
 
 Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
@@ -68,9 +70,11 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshini-G&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshini-G&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -78,7 +82,9 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshini-G&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -86,7 +92,9 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshini-G&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -94,7 +102,9 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Roshini-G&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
@@ -103,9 +113,9 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
 - Flutter Development
 - Firebase
+- Backend Development
 - Machine Learning
 - Artificial Intelligence
-- Backend Development
 - Data Structures & Algorithms
 - System Design
 - Git & GitHub
@@ -114,29 +124,38 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
 # 🎯 2026 Goals
 
-- 🏆 Win National Level Hackathons
-- 🤖 Build AI-powered Applications
+- 🏆 Win National & International Hackathons
+- 🤖 Build impactful AI-powered Applications
 - 🌍 Contribute to Open Source
 - 💻 Solve 300+ LeetCode Problems
-- 📱 Develop High-quality Flutter Applications
+- 📱 Publish Flutter Applications
 - 🚀 Become a Full Stack AI Engineer
+
+---
+
+# 📈 Coding Profiles
+
+- 💻 LeetCode: https://leetcode.com/
+- 🐙 GitHub: https://github.com/Roshini-G
 
 ---
 
 # 💬 Favorite Quote
 
-> "The best way to predict the future is to create it."
+> *"The best way to predict the future is to create it."*
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=Roshini-G&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-Always open to learning, collaborating and building impactful technology.
+Building innovative solutions • Learning every day • Open to collaboration 🚀
 </p>
