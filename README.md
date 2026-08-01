@@ -5,23 +5,23 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Flutter+Developer;Full+Stack+Learner;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Flutter+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 💙 Passionate about AI, Flutter and Full Stack Development
-- 🌱 Currently learning Flutter, Firebase, Backend Development & Machine Learning
-- 🤝 Open to collaborating on exciting projects and hackathons
-- 💡 Love building innovative solutions to real-world problems
-- ⚡ Fun Fact: I enjoy participating in hackathons and learning new technologies.
+- 🎓 B.Tech Computer Science Engineering (AI & ML) Student
+- 💙 Passionate about Artificial Intelligence, Flutter and Full Stack Development
+- 🌱 Currently learning Flutter, Firebase, Machine Learning and Backend Development
+- 🤝 Interested in Hackathons, Open Source and Real-world AI Solutions
+- 💡 I enjoy solving real-world problems using technology
+- ⚡ Always learning and building new projects
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/roshini-gopal-49b9b7419">
@@ -38,21 +38,30 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c,firebase,mysql,git,github,vscode,figma,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,flutter,dart,firebase,react,tailwind,html,css,js,mysql,git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 💎 Jewellery Vault
-AI-powered jewellery management and maintenance application.
+# 🚀 Featured Project
 
 ## 🫀 Smart Organ Transplant Priority Analyzer
-Machine Learning project for organ transplant prioritization.
 
-## 📱 Flutter Applications
-Mobile applications built using Flutter and Firebase.
+An AI-powered healthcare web application designed to prioritize organ transplant recipients using Machine Learning and the Structured Analytic Hierarchy Process (SAHP). The system provides transparent predictions with SHAP Explainable AI, enabling fair, data-driven and explainable decision-making.
+
+### ✨ Features
+
+- 🏥 Patient Registration & Medical Data Management
+- 🤖 Machine Learning-based Priority Prediction
+- 📊 SAHP-based Patient Ranking
+- 🔍 SHAP Explainable AI
+- 📈 Interactive Dashboard & Analytics
+- 📄 Report Generation & Export
+- 🔐 Secure Data Management
+
+### 🛠 Tech Stack
+
+Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
 ---
 
@@ -90,31 +99,27 @@ Mobile applications built using Flutter and Firebase.
 
 ---
 
-# 🛠 Currently Working On
+# 📚 Currently Learning
 
 - Flutter Development
-- AI & Machine Learning Projects
-- Backend Development
-- Hackathon Projects
-
----
-
-# 🌱 Currently Learning
-
-- Flutter
 - Firebase
 - Machine Learning
+- Artificial Intelligence
 - Backend Development
+- Data Structures & Algorithms
 - System Design
+- Git & GitHub
 
 ---
 
-# 🎯 Goals
+# 🎯 2026 Goals
 
-- Build impactful AI applications
-- Contribute to Open Source
-- Win Hackathons
-- Become a Full Stack AI Engineer
+- 🏆 Win National Level Hackathons
+- 🤖 Build AI-powered Applications
+- 🌍 Contribute to Open Source
+- 💻 Solve 300+ LeetCode Problems
+- 📱 Develop High-quality Flutter Applications
+- 🚀 Become a Full Stack AI Engineer
 
 ---
 
@@ -131,3 +136,7 @@ Mobile applications built using Flutter and Firebase.
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
 </h3>
+
+<p align="center">
+Always open to learning, collaborating and building impactful technology.
+</p>
