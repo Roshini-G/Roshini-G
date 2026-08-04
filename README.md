@@ -68,6 +68,25 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshini-G&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshini-G&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshini-G&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshini-G&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # 📈 Contribution Graph
 
@@ -79,14 +98,11 @@ Python • React • Tailwind CSS • Flask • Random Forest • SHAP • SAHP
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Roshini-G&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Roshini-G&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 </p>
-
 ---
 
 # 📚 Currently Learning
